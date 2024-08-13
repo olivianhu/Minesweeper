@@ -1,6 +1,5 @@
 =:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
-CIS 1200 Game Project README
-PennKey: huolivia
+CIS 1200 Minesweeper Project README
 =:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
 
 ===================
